@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzM0ZWEzM2RjNDlhOWZiMDNhZDAyZmM1OGYwMmNhNjQxOWY3NmZiOCZjdD1n/vZKPAfk0Bj0l8naZVx/giphy.gif"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Abraham</h1>
 <h3 align="center">An aspiring Data Analyst from the Uk</h3>
 
