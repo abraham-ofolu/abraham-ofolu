@@ -21,8 +21,6 @@
 
 - 💬 Ask me about **SQL, Python, Tableau**
 
-- 📫 How to reach me **07840568456**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1R_RSEW1hW3utx20OYpdYqlB-8hsdgIOt/view](https://drive.google.com/file/d/1R_RSEW1hW3utx20OYpdYqlB-8hsdgIOt/view)
 
 - ⚡ Fun fact **I think I'm funny, jovial but serious when i need to be.**
