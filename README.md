@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **finding a job**
 
-- 👨‍💻 All of my projects are available at <[https://github.com/abraham-ofolu?tab=repositories](https://github.com/abraham-ofolu?tab=repositories) target=_blank>
+- 👨‍💻 All of my projects are available at [https://github.com/abraham-ofolu?tab=repositories](https://github.com/abraham-ofolu?tab=repositories)
 
 - 💬 Ask me about **SQL, Python, Tableau**
 
